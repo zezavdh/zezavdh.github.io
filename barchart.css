@@ -1,0 +1,53 @@
+*{
+	font-family: OCR A Std;
+	background:black;
+}
+
+h1, h2{
+	text-transform: uppercase;
+	text-align: center;
+	margin-top:50px;
+	color:#fff;
+}
+
+h2{
+	font-size:18px;
+}
+
+path{
+	stroke:#fff;
+}
+
+text{
+	fill:#fff;
+	font-size:14px;
+}
+
+.toolTip {
+  position: absolute;
+  display: none;
+  min-width: 80px;
+  height: auto;
+  background: none repeat scroll 0 0 #ffffff;
+  border: 1px solid #6F257F;
+  padding: 14px;
+  text-align: center;
+}
+
+.left{
+	position:absolute;
+	top:20px;
+	left:20px;
+}
+
+.right{
+	position:absolute;
+	top:20px;
+	right:20px;
+}
+
+a{
+	text-decoration: none;
+	color:white;
+	font-size:50px;
+}

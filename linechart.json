@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Inbraken computer",
+    "show": true,
+    "color": "#4ebc1b",
+    "currentPopulation": 9883640,
+    "history": [
+      {
+        "year": 2010,
+        "population": 1
+      },
+      {
+        "year": 2020,
+        "population": 1
+      },
+      {
+        "year": 2030 ,
+        "population": 0.7
+      }
+    ]
+  },
+  {
+    "name": "Inbraken e-mail",
+    "show": true,
+    "color": "#1f5406",
+    "currentPopulation": 9883640,
+    "history": [
+      {
+        "year": 2010,
+        "population": 3.8
+      },
+      {
+        "year": 2020,
+        "population": 4
+      },
+      {
+        "year": 2030 ,
+        "population": 2.1
+      }
+    ]
+  },
+  {
+    "name": "Inbraken website/social media",
+    "show": true,
+    "color": "#adf18d",
+    "currentPopulation": 9883640,
+    "history": [
+      {
+        "year": 2010,
+        "population": 1.4
+      },
+      {
+        "year": 2020,
+        "population": 1.6
+      },
+      {
+        "year": 2030,
+        "population": 1.4
+      }
+    ]
+  }
+]

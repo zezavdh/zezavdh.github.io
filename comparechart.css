@@ -1,0 +1,45 @@
+*{
+	font-family: OCR A Std;
+	background-color: black;
+}
+
+h1, h2{
+	text-transform: uppercase;
+	color:white;
+	text-align: center;
+}
+
+h2{
+	font-size:14px;
+}
+
+text{
+	fill:white;
+}
+
+.axis .domain {
+  display: block;
+  stroke:white;
+}
+
+line{
+	stroke:white;
+}
+
+.left{
+	position:absolute;
+	top:20px;
+	left:20px;
+}
+
+.right{
+	position:absolute;
+	top:20px;
+	right:20px;
+}
+
+a{
+	text-decoration: none;
+	color:white;
+	font-size:50px;
+}

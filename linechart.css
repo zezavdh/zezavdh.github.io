@@ -1,0 +1,61 @@
+*{
+	font-family: OCR A Std;
+	background-color: black;
+}
+
+h1, h2{
+	text-transform: uppercase;
+	text-align: center;
+	color:white;
+}
+
+h2{
+	font-size:18px;
+}
+
+svg{
+	margin-left:250px;
+}
+
+#tooltip{
+	position:absolute;
+	left:25%;
+	border:1px solid white;
+	padding:10px;
+	color:white;
+}
+
+.tick{
+	fill:white;
+}
+
+.tick text{
+	fill:white;
+	font-size: 14px;
+}
+
+line{
+	stroke:white;
+}
+
+path:first-child{
+	stroke:white;
+}
+
+.left{
+	position:absolute;
+	top:20px;
+	left:20px;
+}
+
+.right{
+	position:absolute;
+	top:20px;
+	right:20px;
+}
+
+a{
+	text-decoration: none;
+	color:white;
+	font-size:50px;
+}
